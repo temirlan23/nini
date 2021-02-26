@@ -9,9 +9,9 @@
 	<div class="hello"></div>
 	
 
-	<iframe width="222" height="222"
+	//*<iframe width="222" height="222"
 src="https://www.youtube.com/watch?v=hq3pLeW5qB4">
-</iframe>
+</iframe>*//
 	 <ul  style="text-align: center;  color:green ">  
 	 	<li >Temirlan</li> 
 	 	<li>Aidana</li>
