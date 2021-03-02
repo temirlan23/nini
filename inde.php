@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html style="background: purple url('img/dota.png ') repeat center;">
+<html style="background: purple url('dota.png ') repeat center;">
 <head>
 	<title>terminatoor</title>
-<link rel="stylesheet" type="text/css" href="css/style.css" />
-</head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
 <body >
 	<h1>Hi its my new site</h1>
 	<div class="fuckk">"COVID" and "COVID-19" redirect here. For diseases caused by coronaviruses, see Coronavirus diseases. For the ongoing pandemic, see COVID-19 pandemic.
@@ -30,6 +30,8 @@ Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acu
   </div>
 </div>
 <img src="dota.png" alt="Italian Trulli" width="128" height="128">
+	<?php echo '<p>grfydvkjncxmkzsl;codefijjkm</p>' ?>
+
 
 
 
