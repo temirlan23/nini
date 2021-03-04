@@ -5,32 +5,32 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 <body >
-	<h1>Hi its my new site</h1>
-	<div class="fuckk">"COVID" and "COVID-19" redirect here. For diseases caused by coronaviruses, see Coronavirus diseases. For the ongoing pandemic, see COVID-19 pandemic.
-Coronavirus disease 2019
-(COVID-19)
-COVID-19 pandemic<br>
-SARS-CoV-2 without 
-SARS-CoV-2 (virus)COVID-19 (disease)
-Timeline<br>
-Locations
-International response
-Medical response
-Impact
-SARS-CoV-2 (Wikimedia colors).svg COVID-19 Portal
-vte<br>
-Coronavirus disease 2019 (COVID-19) is a contagious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The first case was identified in Wuhan, China, in December 2019.[6] The disease has since spread worldwide, leading to an ongoing pandemic.[7]</div>
+	<h1 class="fuckk">Temirlan Dusumbaev</h1>
+	<h2>EDUCATION</h2>
+	<div>IT& Business College of Alatoo International University<br>
+Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
+Study years - 2018-2021</div>
+	<h2>SKILLS</h2>
+	<ul style="list-style-type:square">
+            <li>Windows OS, Linux OS, Linux Server</li>
+            <li>HTML & CSS</li>
+            <li>Database (MySQL server)</li>
+	    <li>Basic Programming Knowledge in C++ and Python.</li>
+        </ul>
+ 
+ 
+	
 <a href="https://www.youtube.com/watch?v=khpL08_O1WE&list=RDkhpL08_O1WE&start_radio=1" style="color: red"> <button>take</button></a>
 <div class="dropdown">
   <button class="dropbtn">COVID</button>
   <div class="dropdown-content">
-    <a href="#">COVID 19</a>
-    <a href="#">COVID 20</a>
-    <a href="#">COVID 22</a>
+    <a href="">telegram</a>
+    <a href="">VK</a>
+    <a href="https://www.instagram.com/vipp633/">instogram</a>
   </div>
 </div>
 <img src="dota.png" alt="Italian Trulli" width="128" height="128">
-	<?php echo '<p>grfydvkjncxmkzsl;codefijjkm</p>' ?>
+	<?php echo '<p></p>' ?>
 
 
 
