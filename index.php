@@ -10,7 +10,7 @@
 	<div  >IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
 Study years - 2018-2021</div>
-	<h2  >SKILLS</h2>
+	<h3 >SKILLS</h3>
 	<ul style="list-style-type:square" class="fuckk" >
             <li>Windows OS, Linux OS, Linux Server</li>
             <li>HTML & CSS</li>
