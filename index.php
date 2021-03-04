@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 <body >
-	<h1 class="fuckk">Temirlan Dusumbaev</h1>
+	<h1 >Temirlan Dusumbaev</h1>
 	<h2 >EDUCATION</h2>
 	<div  >IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
@@ -29,7 +29,7 @@ Study years - 2018-2021</div>
     <a href="https://www.instagram.com/vipp633/">instogram</a>
   </div>
 </div>
-<img src="dota.png" alt="Italian Trulli" width="128" height="128">
+<img  width="" height="">
 	<?php echo '<p></p>' ?>
 
 
