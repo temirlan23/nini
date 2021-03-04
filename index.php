@@ -6,12 +6,12 @@
 	</head>
 <body >
 	<h1 class="fuckk">Temirlan Dusumbaev</h1>
-	<h2>EDUCATION</h2>
-	<div>IT& Business College of Alatoo International University<br>
+	<h2 class="fuckk">EDUCATION</h2>
+	<div class="fuckk" >IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
 Study years - 2018-2021</div>
-	<h2>SKILLS</h2>
-	<ul style="list-style-type:square">
+	<h2 class="fuckk" >SKILLS</h2>
+	<ul style="list-style-type:square" class="fuckk" >
             <li>Windows OS, Linux OS, Linux Server</li>
             <li>HTML & CSS</li>
             <li>Database (MySQL server)</li>
@@ -25,7 +25,7 @@ Study years - 2018-2021</div>
   <button class="dropbtn">COVID</button>
   <div class="dropdown-content">
     <a href="">telegram</a>
-    <a href="">VK</a>
+    <a href="https://vk.com/feed">VK</a>
     <a href="https://www.instagram.com/vipp633/">instogram</a>
   </div>
 </div>
