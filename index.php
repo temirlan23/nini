@@ -20,7 +20,7 @@ Study years - 2018-2021</div>
  
  
 	
-<a href="https://www.youtube.com/watch?v=khpL08_O1WE&list=RDkhpL08_O1WE&start_radio=1" style="color: red"> <button>take</button></a>
+<a href="https://www.youtube.com/results?search_query=%D1%82%D1%8B+%D0%B2%D0%B5%D0%BD%D0%B5%D1%80%D0%B0+%D1%8F+%D1%8E%D0%BF%D0%B8%D1%82%D0%B5%D1%80" style="color: red"> <button>take</button></a>
 <div class="dropdown">
   <button class="dropbtn">COVID</button>
   <div class="dropdown-content">
