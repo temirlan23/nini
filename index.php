@@ -17,10 +17,13 @@ Study years - 2018-2021</div>
             <li>Database (MySQL server)</li>
 	    <li>Basic Programming Knowledge in C++ and Python.</li>
         </ul>
+	<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=2G1Bnwsw7lA">
+</iframe>
  
  
 	
-<a href="https://www.youtube.com/results?search_query=%D1%82%D1%8B+%D0%B2%D0%B5%D0%BD%D0%B5%D1%80%D0%B0+%D1%8F+%D1%8E%D0%BF%D0%B8%D1%82%D0%B5%D1%80" style="color: red"> <button>take</button></a>
+<a href="https://www.youtube.com/watch?v=VljpP4csbOc" style="color: red"> <button>take</button></a>
 <div class="dropdown">
   <button class="dropbtn">COVID</button>
   <div class="dropdown-content">
