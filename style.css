@@ -5,12 +5,21 @@
 
 		}
 		.fuckk{
-			border: ridge;
-			color: green;
+			border: ;
+			color: ;
 			width: 33%;
 			margin: 0;
 			padding: 15px;
 			float: left;
+			
+		}
+.fuck{
+			border: ;
+			color: ;
+			width: 33%;
+			margin: 0;
+			padding: 15px;
+			float: right;
 			
 		}
 			[class*='col-'] {
@@ -103,7 +112,7 @@
 }
 /* Dropdown Button */
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #330000;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -141,4 +150,4 @@
 .dropdown:hover .dropdown-content {display: block;}
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
+.dropdown:hover .dropbtn {background-color: #330000;}
