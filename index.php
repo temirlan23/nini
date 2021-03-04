@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background: purple url('dota.png ') repeat center;">
+<html style="background: purple url('777.jpg ') repeat center;">
 <head>
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
