@@ -17,7 +17,7 @@ Study years - 2018-2021</div>
             <li>Database (MySQL server)</li>
 	    <li>Basic Programming Knowledge in C++ and Python.</li>
         </ul>
-	<iframe width="420" height="315"
+	<iframe class="fuckk" width="120" height="100"
 src="https://www.youtube.com/watch?v=2G1Bnwsw7lA">
 </iframe>
  
