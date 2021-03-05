@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background:  url('1.jpg ') repeat center;">
+<html style="background:  url('hp.jpg ') repeat center;">
 <head>
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
@@ -7,9 +7,9 @@
 <body >
 	<h1 >Temirlan Dusumbaev</h1>
 	<h2 >EDUCATION</h2>
-	<div  >IT& Business College of Alatoo International University<br>
+	<div  > <em>IT& Business College of Alatoo International University<br>
 Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
-Study years - 2018-2021</div>
+Study years - 2018-2021</em></div>
 	<h3 >SKILLS</h3>
 	<ul style="list-style-type:square" class="fuckk" >
             <li>Windows OS, Linux OS, Linux Server</li>
@@ -17,21 +17,16 @@ Study years - 2018-2021</div>
             <li>Database (MySQL server)</li>
 	    <li>Basic Programming Knowledge in C++ and Python.</li>
         </ul>
-	<iframe class="fuckk" width="120" height="100"
-src="https://www.youtube.com/watch?v=2G1Bnwsw7lA">
-</iframe>
+	
  
  
 	
 <a href="" style="color: red"> <button>take</button></a>
-<div class="dropdown">
-  <button class="dropbtn">my</button>
-  <div class="dropdown-content">
-    <a href="">telegram</a>
-    <a href="https://vk.com/ueban023">VK</a>
-    <a href="https://www.instagram.com/vipp633/">instogram</a>
-  </div>
-</div>
+
+    <a style="2.jpg"  href="">telegram</a>
+    <a style="3.png" href="https://vk.com/ueban023">VK</a>
+    <a style="1.jpg" href="https://www.instagram.com/vipp633/" >instogram</a>
+ 
 <img  width="" height="">
 	<?php echo '<p></p>' ?>
 
