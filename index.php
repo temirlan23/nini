@@ -23,9 +23,9 @@ Study years - 2018-2021</em></div>
 	
 <a href="" style="color: red"> <button>take</button></a>
 
-    <a class=fa style="2.jpg" ; href="">telegram</a>
-    <a class=fa style="3.png"; href="https://vk.com/ueban023">VK</a>
-    <a class=fa style="5.jpg"; href="https://www.instagram.com/vipp633/" >instogram</a>
+    <a  href="">telegram</a>
+    <a  href="https://vk.com/ueban023">VK</a>
+    <a  href="https://www.instagram.com/vipp633/" >instogram</a>
  
 <img  width="" height="">
 	<?php echo '<p></p>' ?>
