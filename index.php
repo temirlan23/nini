@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background:  url('hp.jpg ') repeat center;">
+<html style="background:  url('1.jpg ') repeat center;">
 <head>
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
