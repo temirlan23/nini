@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background: purple url('777.jpg ') repeat center;">
+<html style="background:  url('1.jpg ') repeat center;">
 <head>
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
@@ -23,9 +23,9 @@ src="https://www.youtube.com/watch?v=2G1Bnwsw7lA">
  
  
 	
-<a href="https://www.youtube.com/watch?v=VljpP4csbOc" style="color: red"> <button>take</button></a>
+<a href="" style="color: red"> <button>take</button></a>
 <div class="dropdown">
-  <button class="dropbtn">COVID</button>
+  <button class="dropbtn">my</button>
   <div class="dropdown-content">
     <a href="">telegram</a>
     <a href="https://vk.com/ueban023">VK</a>
