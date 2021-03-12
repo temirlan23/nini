@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 <body style="color:white;">
-	<div><img src="5.png" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
+	<div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
 	<h1 >Temirlan Dusumbaev</h1>
 	<h2 >EDUCATION</h2>
 	<div  > <em>IT& Business College of Alatoo International University<br>
