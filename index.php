@@ -4,7 +4,8 @@
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
-<body >
+<body style="color:white;">
+	<div><img src="5.jpg" width="300" height="300" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
 	<h1 >Temirlan Dusumbaev</h1>
 	<h2 >EDUCATION</h2>
 	<div  > <em>IT& Business College of Alatoo International University<br>
@@ -24,8 +25,8 @@ Study years - 2018-2021</em></div>
 <a href="" style="color: red"> <button>take</button></a>
 
     <a  href="">telegram</a>
-    <a  href="https://vk.com/ueban023">VK</a>
-    <a  href="https://www.instagram.com/vipp633/" >instogram</a>
+    <a target="_blank"  href="https://vk.com/ueban023">VK</a>
+    <a target="_blank"  href="https://www.instagram.com/vipp633/" >instogram</a>
  
 <img  width="" height="">
 	<?php echo '<p></p>' ?>
