@@ -23,7 +23,7 @@ Study years - 2018-2021</em>
  
  <div>
 	
-<a href="" style="color: red"> <button>take</button></a><br>
+
 
     <a  style="color:Cornsilk;" href="">telegram</a><br>
     <a style="color:Cornsilk;" target="_blank"  href="https://vk.com/ueban023">VK</a><br>
