@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 <body style="color:white;">
-        <p width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2"; >&#128514;</p>
+        <p style="font-size:120px" >&#128514;</p>
 	<div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
 	<h1 >Temirlan Dusumbaev</h1>
 	<h2 >EDUCATION</h2>
