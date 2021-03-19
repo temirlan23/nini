@@ -28,6 +28,9 @@ Study years - 2018-2021</em>
 
     <a  style="color:Cornsilk;" href="">telegram</a><br>
     <a style="color:Cornsilk;" target="_blank"  href="https://vk.com/ueban023">VK</a><br>
+	     <a target="_blank" href="https://www.instagram.com/vipp633/" title="Follow me :)">
+<img src="3.png" alt="Instagram" style="width:70px;height:70px;">
+	 </a>
     <a style="color:Cornsilk;" target="_blank"  href="https://www.instagram.com/vipp633/" >instogram</a>
 	 </div>
 		<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Login</button>
