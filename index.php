@@ -5,8 +5,8 @@
 <link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 <body style="color:white;">
-        <p style="font-size:120px:float:left">&#128514;</p>
-	/* <div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>*/
+        <p style="font-size:120px; float:left">&#128514;</p>
+	// <div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";>
 	<h1 >Temirlan Dusumbaev</h1>
 	<h2 >EDUCATION</h2>
 	<div  > <em>IT& Business College of Alatoo International University<br>
@@ -52,10 +52,27 @@ Study years - 2018-2021</em>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
     </div>
+	  
 
     <div class="container" style="background-color:#f1f1f1">
       <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
       <span class="psw">Forgot <a href="#">password?</a></span>
+	    
+	 <script lauguage="javascript">
+	function myFunction(){
+      var a = document.getElementById("fname").value
+      var b = document.getElementById("lname").value
+      var form = document.querySelector("form")
+
+       if (a=="esen4iik" && b == "12345"){
+        form.setAttribute('action', 'https://www.youtube.com/watch?v=yY7iGa4t9-I');
+       }else{
+        alert('permission denied')
+       }
+	}
+
+
+</script>
     </div>
   </form>
 </div>
