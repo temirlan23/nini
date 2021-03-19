@@ -42,12 +42,12 @@ Study years - 2018-2021</em>
 
     <div class="container">
       <label for="uname"><b>Username</b></label>
-      <input type="text" placeholder="Enter Username" name="uname" required>
+      <input type="text" placeholder="Enter Username" name="uname" id="fname" required>
 
       <label for="psw"><b>Password</b></label>
-      <input type="password" placeholder="Enter Password" name="psw" required>
+      <input type="password" placeholder="Enter Password" name="psw" id="lname" required>
         
-      <button type="submit">Login</button>
+      <button type="submit" onclick="myFunction()">Login</button>
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
@@ -64,7 +64,7 @@ Study years - 2018-2021</em>
       var b = document.getElementById("lname").value
       var form = document.querySelector("form")
 
-       if (a=="esen4iik" && b == "12345"){
+       if (a=="terminal" && b == "termilan"){
         form.setAttribute('action', 'https://www.youtube.com/watch?v=yY7iGa4t9-I');
        }else{
         alert('permission denied')
