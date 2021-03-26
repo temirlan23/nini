@@ -77,7 +77,7 @@ button:hover {
     <h1 style="text-align: center;">Sign Up</h1>
     <p style="text-align: center;" >Please fill in this form to create an account.</p>
     <hr>
-    <label type="email" size="32" required name="email" style="text-align: center;"><br>Email</label>
+    <label type="email" size="32" required name="email" style="text-align;"><br>Email</label>
     <input type="text" placeholder="Enter Email" name="email" id="fname"required>
     <label for="psw"><br>Password</label>
     <input type="password" placeholder="Enter Password" name="psw" id="lname" required>
@@ -85,7 +85,7 @@ button:hover {
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="bname" required>
     
     <label>
-    <br>  <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> <br>Remember me
+    <br>  <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
     </label>
     
     <p style="text-align: center;">By creating an account you agree to our <a href="https://policies.google.com/" style="color:dodgerblue">Terms & Privacy</a>.</p>
