@@ -74,11 +74,11 @@ button:hover {
     <h1 style="text-align: center;">Sign Up</h1>
     <p style="text-align: center;" >Please fill in this form to create an account.</p>
     <hr>
-    <label type="email" size="32" required name="email" style="text-align: center;"><b >Email</b></label>
+    <label type="email" size="32" required name="email" style="text-align: center;">Email</label>
     <input type="text" placeholder="Enter Email" name="email" id="fname"required>
-    <label for="psw"><b>Password</b></label>
+    <label for="psw">Password</label>
     <input type="password" placeholder="Enter Password" name="psw" id="lname" required>
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat">Repeat Password</label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="bname" required>
     
     <label>
