@@ -29,8 +29,8 @@ button {
   background-color: #4CAF50;
   float: center;
   color: white;
-  padding: 14px 20px;
-  margin: 8px 0;
+  padding: 10;
+  margin: 20px;
   border: none;
   cursor: pointer;
   width: 50%;
@@ -82,7 +82,7 @@ button:hover {
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="bname" required>
     
     <label>
-      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> <br>Remember me
     </label>
     
     <p style="text-align: center;">By creating an account you agree to our <a href="https://policies.google.com/" style="color:dodgerblue">Terms & Privacy</a>.</p>
