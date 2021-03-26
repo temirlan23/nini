@@ -20,6 +20,9 @@ input[type=text]:focus, input[type=password]:focus {
   background-color: #ddd;
   outline: none;
 }
+  input[type=checkbox]{
+    
+    
 hr {
   border: 1px solid #f1f1f1;
   margin-bottom: 25px;
@@ -82,7 +85,7 @@ button:hover {
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="bname" required>
     
     <label>
-      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> <br>Remember me
+    <br>  <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> <br>Remember me
     </label>
     
     <p style="text-align: center;">By creating an account you agree to our <a href="https://policies.google.com/" style="color:dodgerblue">Terms & Privacy</a>.</p>
