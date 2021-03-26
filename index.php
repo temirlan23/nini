@@ -6,6 +6,7 @@ body {font-family: Arial, Helvetica, sans-serif; background-image:url("1.png") ;
 /* Full-width input fields */
 input[type=text], input[type=password] {
   width: 50%;
+  float:centr;
   text-align: center;
   padding: 10px;
   margin: 20px;
@@ -25,12 +26,14 @@ hr {
 /* Set a style for all buttons */
 button {
   background-color: #4CAF50;
+  float: centr;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
   cursor: pointer;
-  width: 100%;
+  width: 50%;
+  border-radius: 65px;
   opacity: 0.9;
 }
 button:hover {
