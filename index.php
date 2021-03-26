@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <style>
-body {font-family: Arial, Helvetica, sans-serif; background-image:url("1.png") ; color: #ddd;}
+  <link rel="stylesheet" type="text/css" href="style.css" />
+body {font-family: Arial, Helvetica, sans-serif; background-image:url("1.lpg") ; color: #ddd;}
 * {box-sizing: border-box}
 /* Full-width input fields */
 input[type=text], input[type=password] {
   width: 50%;
   float:centr;
-  text-align: center;
   padding: 10px;
   margin: 20px;
   display: inline-block;
