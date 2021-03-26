@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
-<style>
   <link rel="stylesheet" type="text/css" href="style.css" />
+<style>
+  
 body {font-family: Arial, Helvetica, sans-serif; background-image:url("1.jpg") ; color: #ddd;}
 * {box-sizing: border-box}
 /* Full-width input fields */
@@ -26,7 +27,7 @@ hr {
 /* Set a style for all buttons */
 button {
   background-color: #4CAF50;
-  float: centr;
+  float: center;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
