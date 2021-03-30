@@ -3,6 +3,7 @@
 <head>
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
+	<script src="script.js"></script>
 	</head>
 <body style="color:white;">
         <div><p style="font-size:120px; float:right">&#128514;</p></div>
