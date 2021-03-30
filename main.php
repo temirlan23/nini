@@ -6,6 +6,39 @@
 	<script src="script.js"></script>
 	</head>
 <body style="color:white;">
+	
+	<script type="text/javascript">
+$(document).ready(function() {
+    $(".testimonial-carousel").slick({
+        infinite: !0,
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        autoplay: !1,
+        arrows:true,
+        prevArrow: $(".testimonial-carousel-controls .prev"),
+        nextArrow: $(".testimonial-carousel-controls .next"),
+        responsive: [{
+            breakpoint: 1200,
+            settings: {
+                slidesToShow: 3
+            }
+        }, {
+            breakpoint: 992,
+            settings: {
+                slidesToShow: 2
+            }
+        }, {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+});
+</script>
+	
+	
+	
         <div><p style="font-size:120px; float:right">&#128514;</p></div>
 	<!-- <div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";> -->
 	<h1 >Temirlan Dusumbaev</h1>
