@@ -4,38 +4,34 @@
 	<title>terminatoor</title>
 <link rel="stylesheet" type="text/css" href="style.css" />
 	<script src="script.js"></script>
-	</head>
-<body style="color:white;">
-	
-	<script type="text/javascript">
-$(document).ready(function() {
-    $(".testimonial-carousel").slick({
-        infinite: !0,
-        slidesToShow: 4,
+		<script type="text/javascript">
+$(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
         slidesToScroll: 1,
-        autoplay: !1,
-        arrows:true,
-        prevArrow: $(".testimonial-carousel-controls .prev"),
-        nextArrow: $(".testimonial-carousel-controls .next"),
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
         responsive: [{
-            breakpoint: 1200,
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
             settings: {
                 slidesToShow: 3
-            }
-        }, {
-            breakpoint: 992,
-            settings: {
-                slidesToShow: 2
-            }
-        }, {
-            breakpoint: 600,
-            settings: {
-                slidesToShow: 1
             }
         }]
     });
 });
 </script>
+	</head>
+<body style="color:white;">
+	
+
 	
 	
 	
@@ -55,66 +51,24 @@ Study years - 2018-2021</em>
         </ul>
 		</div>
 	
- <section class="orange-fade p-5 margin-top-xl pos-r">
-  <div class="container">
-   	<div class="row">
-		<div class="col-sm-12">
-        <h2 class="text-center font-weight-bold text-white">Our Customers are Seeing Big Results</h2>
-        <p></p>
-       <div class="mt-5 pos-r">
-          <div class="carousel-controls testimonial-carousel-controls">
-            <div class="control prev"><i class="fa fa-chevron-left text-white">&nbsp;</i></div>
-            <div class="control next"><i class="fa fa-chevron-right text-white">&nbsp;</i></div>
-          </div>
-          <div class="testimonial-carousel">
-            <div class="one-slide white">
-              <div class="testimonial w-100 h-100  p-3 text-center">
-                <div class="message text-center text-gray">I have been working with Solodev for nearly 4 years and I couldn&#39;t be happier with the results!</div>
-                <div class="separator">&nbsp;</div>
-                <div class="brand"><img alt="Florida Dairy Farmers" src="https://raw.githubusercontent.com/solodev/slider-boxes/master/images/img-1.png" class="mx-auto"/></div>
-              </div>
-            </div>
-            <div class="one-slide white">
-              <div class="testimonial w-100 h-100  p-3 text-center">
-                <div class="message text-center text-gray">The interface is easy for a novice user to make updates just as easily as an experienced developer.</div>
-                <div class="separator">&nbsp;</div>
-                <div class="brand"><img alt="Florida Department of Education" src="https://raw.githubusercontent.com/solodev/slider-boxes/master/images/img-2.png" class="mx-auto"/></div>
-              </div>
-            </div>
-            <div class="one-slide white">
-              <div class="testimonial w-100 h-100  p-3 text-center">
-                <div class="message text-center text-gray">Solodev is a great company to partner with! We are extremely happy with the software, service, and support.</div>
-                <div class="separator">&nbsp;</div>
-                <div class="brand"><img alt="Seminole County" src="https://raw.githubusercontent.com/solodev/slider-boxes/master/images/img-3.png" class="mx-auto" /></div>
-              </div>
-            </div>
-            <div class="one-slide white">
-              <div class="testimonial w-100 h-100  p-3 text-center">
-                <div class="message text-center text-gray">If you are looking for a great CMS company then Solodev is the right choice.</div>
-                <div class="separator">&nbsp;</div>
-                <div class="brand"><img alt="Lynx" src="https://raw.githubusercontent.com/solodev/slider-boxes/master/images/img-4.png" class="mx-auto" /></div>
-              </div>
-            </div>
-            <div class="one-slide white">
-              <div class="testimonial w-100 h-100  p-3 text-center">
-                <div class="message text-center text-gray">Everyone on the Solodev team is very knowledgeable and they have been always been very responsive.</div>
-                <div class="separator">&nbsp;</div>
-                <div class="brand"><img alt="Miami Beach VCA" src="https://raw.githubusercontent.com/solodev/slider-boxes/master/images/img-5.png" class="mx-auto" /></div>
-              </div>
-            </div>
-            <div class="one-slide white">
-              <div class="testimonial w-100 h-100  p-3 text-center">
-                <div class="message text-center text-gray">Solodev has been able to successfully keep us at the forefront of our industry and continually meet our ever adapting needs.</div>
-                <div class="separator">&nbsp;</div>
-                <div class="brand"><img alt="Oneblood" src="https://raw.githubusercontent.com/solodev/slider-boxes/master/images/img-6.png" class="mx-auto" /></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+
+<div class="container">
+  <h2>Our  Partners</h2>
+   <section class="customer-logos slider">
+      <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
+      <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
+   </section>
+</div>
  
 
 
