@@ -40,9 +40,9 @@ Study years - 2018-2021</em>
                     <div class="image">
                         <article><img src="1.jpg"></article>
                         <article><img src="2.jpg"></article>
-                        <article><img src="3.jpg"></article>
-                        <article><img src="4.jpg"></article>
-                        <article><img src="5.jpg"></article>
+                        <article><img src="3.png"></article>
+                        <article><img src="777.jpg"></article>
+                        <article><img src="5.png"></article>
                     </div>
                 </div>>
             </div> 
