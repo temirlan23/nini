@@ -64,6 +64,7 @@ Study years - 2018-2021</em>
             </div> 
         </article>
     </div>
+	<script></script>
 
 	<?php echo '<p></p>' ?>
 
