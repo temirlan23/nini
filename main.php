@@ -8,7 +8,21 @@
 </head>
 <body style="color:white;">
 	
-	<div class="slideshow-container">
+        <div><p style="font-size:120px; float:right">&#128514;</p></div>
+	<!-- <div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";> -->
+	<h1 >Temirlan Dusumbaev</h1>
+	<h2 >EDUCATION</h2>
+	<div  > <em>IT& Business College of Alatoo International University<br>
+Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
+Study years - 2018-2021</em>
+	<h3 >SKILLS</h3>
+	<ul style="list-style-type:square" >
+            <li>Windows OS, Linux OS, Linux Server</li>
+            <li>HTML & CSS</li>
+            <li>Database (MySQL server)</li>
+	    <li>Basic Programming Knowledge in C++ and Python.</li>
+        </ul>
+		<div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
@@ -39,25 +53,15 @@
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-	
-
-	
-	
-	
-        <div><p style="font-size:120px; float:right">&#128514;</p></div>
-	<!-- <div><img src="5.png" width="120" height="120" style="vertical-align:right; margin-top:0px;  border-radius: 50%; float: right;" border="2";> -->
-	<h1 >Temirlan Dusumbaev</h1>
-	<h2 >EDUCATION</h2>
-	<div  > <em>IT& Business College of Alatoo International University<br>
-Address: Ankara Street 1/8, Tunguch, 720048, Bishkek, Kyrgyz Republic
-Study years - 2018-2021</em>
-	<h3 >SKILLS</h3>
-	<ul style="list-style-type:square" >
-            <li>Windows OS, Linux OS, Linux Server</li>
-            <li>HTML & CSS</li>
-            <li>Database (MySQL server)</li>
-	    <li>Basic Programming Knowledge in C++ and Python.</li>
-        </ul>
+		
+		<div class="img-comp-container">
+  <div class="img-comp-img">
+    <img src="img_snow.jpg" width="300" height="200">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="img_forest.jpg" width="300" height="200">
+  </div>
+</div>
 
 	<script src="script.js"></script>
 
