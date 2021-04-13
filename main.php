@@ -58,45 +58,7 @@ Study years - 2018-2021</em>
             <li>Database (MySQL server)</li>
 	    <li>Basic Programming Knowledge in C++ and Python.</li>
         </ul>
-		</div>
-	<div class="all">
-        <input checked type="radio" name="respond" id="desktop">
-        <article>
-            <input checked  type="radio" name="slider" id="swich1">
-            <input  type="radio" name="slider" id="swich2">
-            <input  type="radio" name="slider" id="swich3">
-            <input  type="radio" name="slider" id="swich4">
-            <input  type="radio" name="slider" id="swich5">  
 
-            <div id="slides">
-                <div id="overflow">
-                    <div class="image">
-                        <article><img src="1.jpg"></article>
-                        <article><img src="2.jpg"></article>
-                        <article><img src="3.png"></article>
-                        <article><img src="777.jpg"></article>
-                        <article><img src="5.png"></article>
-                    </div>
-                </div>>
-            </div> 
-            <div id="controls">
-                <label for="switch1"></label>
-                <label for="switch2"></label>
-                <label for="switch3"></label>
-                <label for="switch4"></label>
-                <label for="switch5"></label>
-                
-            </div> 
-              <div id="active">
-                <label for="switch1"></label>
-                <label for="switch2"></label>
-                <label for="switch3"></label>
-                <label for="switch4"></label>
-                <label for="switch5"></label>
-                
-            </div> 
-        </article>
-    </div>
 	<script src="script.js"></script>
 
 	<?php echo '<p></p>' ?>
